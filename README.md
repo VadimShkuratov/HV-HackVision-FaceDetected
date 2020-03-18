@@ -1,4 +1,3 @@
-# hello-world
-My first project on GitHub (Hello GitHub ;))
+# HackVision
+It's program, my first idea on .Net, with OpenCV and Emgu
 
-My name Vadim. I C#-Developer!
